@@ -2,9 +2,9 @@
 
 # Kelompok 1
 
-Farrel Naufal Magribi (L0224)
+Farrel Naufal Magribi (L0224031)
 
-Tanerski Gabriela Gienaldi (L02250)
+Tanerski Gabriela Gienaldi (L0225012)
 
 Nabila Azzahra Putri (L0225042)
 
