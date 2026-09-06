@@ -1,4 +1,5 @@
 # Tugas-1---Gith-Github-Versioning
 
 Deskripsi :
+
 Mitra kedua yang menjadi pertimbangan kami adalah CV.Solaris Eternal Apparel. Pabrik Garment Solaris Eternal Apparel adalah manufaktur pakaian jadi (ready-to-wear) dan tekstil berskala industri dengan volume produksi harian yang tinggi. Dalam menjalankan operasional manufakturnya, transparansi dan pemantauan arus kerja harian (daily workflow) menjadi kebutuhan krusial. Melalui kemitraan ini, dikembangkan sebuah Website Sistem Pelaporan Harian (Daily Reporting System) terintegrasi untuk mengasumsikan dan memodernisasi alur pelaporan operasional pabrik yang sebelumnya berbasis manual menjadi digital secara real-time. Itulah mengapa kami berencana memilih mitra ini sebagai tugas project akhir semester pada mata kuliah Rekayasa Sistem Informasi.
